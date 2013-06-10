@@ -1,0 +1,40 @@
+{
+  "name": "seneca-pay",
+  "version": "0.0.1",
+  "description": "Seneca payment plugin",
+  "main": "lib/main.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iantocristian/seneca-pay.git"
+  },
+  "keywords": [
+    "seneca",
+    "pay",
+    "payment",
+    "paypal",
+    "payflow",
+    "gateway",
+    "plugin"
+  ],
+  "author": "Cristian Ianto",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.4.4",
+    "dispatch": "0.2.x",
+    "paypal-express": "git://github.com/andzdroid/paypal-express.git"
+  },
+  "devDependencies": {
+    "gex": "~0.0.3",
+    "chai": "~1.5.0",
+    "async": "~0.2.5",
+    "seneca": "~0.5.8"
+  },
+  "files": [
+    "README.md",
+    "LICENSE.txt",
+    "lib/mail.js",
+    "test/readme.js"
+  ]
+}
