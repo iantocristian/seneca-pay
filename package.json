@@ -35,7 +35,6 @@
   "files": [
     "README.md",
     "LICENSE.txt",
-    "lib/mail.js",
-    "test/readme.js"
+    "lib"
   ]
 }
