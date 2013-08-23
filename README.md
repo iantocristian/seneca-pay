@@ -1,5 +1,5 @@
 # seneca-pay - Node.js module
-
+ 
 ## Payments plugin for <a href="https://github.com/rjrodger/seneca">Seneca</a>
 
 Includes support for paypal express payments.
