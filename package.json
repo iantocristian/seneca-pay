@@ -1,6 +1,6 @@
 {
   "name": "seneca-pay",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Seneca payment plugin",
   "main": "lib/main.js",
   "scripts": {
